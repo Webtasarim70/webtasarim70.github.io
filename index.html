@@ -9,6 +9,8 @@ permalink: /
         <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="{{ site.description }}">
+        <!-- yandex mail kullanımı icin -->
+        <meta name="yandex-verification" content="7493ca5e6feea5a9" />
         <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
         {% if site.favicon_img %}
         <link rel="shortcut icon" href="{{ site.favicon_img_path }}" />

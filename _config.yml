@@ -42,7 +42,9 @@ avatar_img_path: "https://avatars3.githubusercontent.com/u/27343458"
 
 front_img: yes
 #front_img_path: "imgs/background.jpg"
-front_img_path: "https://images.unsplash.com/photo-1466220666686-90bdba318c9a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1360&q=80"
+#front_img_path: "https://images.unsplash.com/photo-1466220666686-90bdba318c9a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1360&q=80"
+
+front_img_path: "https://images.unsplash.com/photo-1568678090873-3bd8c9c336b0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1189&q=80"
 
 
 favicon_img: yes
